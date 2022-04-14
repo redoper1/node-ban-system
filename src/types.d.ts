@@ -1,0 +1,1 @@
+export type BanList = {[ip: string]: {timestamp: number}};
